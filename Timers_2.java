@@ -1,3 +1,9 @@
+/**
+* Author: Logan Harris
+* Email: logancharris12@gmail.com
+* Date: 8th March, 2022
+*/
+
 package com.example.timer;
 
 import android.os.Bundle;
