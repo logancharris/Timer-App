@@ -1,6 +1,6 @@
 package com.example.timer;
 /**
- * Some of This code is a modified version of code taken from:
+ * This stopwatch method is a modified version of the code in this video:
  * https://www.youtube.com/watch?v=Dr-VtCbev10
  */
 
